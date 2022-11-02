@@ -95,3 +95,4 @@ If the &to= parameter is not specified, then the result will be all records up t
 
 <p>Example:</p>
 <code>https://crm.cryptokg.io/api/v2/leads?token=abcoz5egy8kmjtrslb67a5&from=2022-10-01&to=2022-11-01&per_page=50&page=1</code>
+<p>the response will contain the names and emails of clients, our internal ID, status and whether there was a deposit in the isFTD field</p>
