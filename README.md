@@ -88,3 +88,10 @@ try {
 
 ?>
 </code></pre>
+
+<h3>Getting information about leads</h3>
+<p>Send a GET request to the https://crm.cryptokg.io/api/v2/leads endpoint with parameters: token, from, to. You can also specify the number of clients per page using the per_page parameter and the page number - the page parameter
+If the &to= parameter is not specified, then the result will be all records up to the current moment</p>
+
+<p>Example:</p>
+<code>https://crm.cryptokg.io/api/v2/leads?token=abcoz5egy8kmjtrslb67a5&from=2022-10-01&to=2022-11-01&per_page=50&page=1</code>
