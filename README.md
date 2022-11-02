@@ -9,7 +9,7 @@
 </ol>
 
 <p>Request fields:</p>
-<code>
+<code><pre>
 {
   "email": "", 
     "password": "",
@@ -21,4 +21,4 @@
     "offer": "FB_Trafficgiants_RU",
     "comment": ""
 }
-</code>
+</pre></code>
