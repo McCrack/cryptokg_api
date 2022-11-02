@@ -9,16 +9,16 @@
 </ol>
 
 <p>Request fields:</p>
-<code><pre>
+<pre><code>
 {
   "email": "", 
-    "password": "",
-    "first_name": "",
-    "last_name": "",
-    "phone": "",
-    "country_code": "",
-    "token": "zvtoz5egy8kmjtrslb76c8",
-    "offer": "FB_Trafficgiants_RU",
-    "comment": ""
+  "password": "",
+  "first_name": "",
+  "last_name": "",
+  "phone": "",
+  "country_code": "",
+  "token": "zvtoz5egy8kmjtrslb76c8",
+  "offer": "FB_Trafficgiants_RU",
+  "comment": ""
 }
-</pre></code>
+</code></pre>
